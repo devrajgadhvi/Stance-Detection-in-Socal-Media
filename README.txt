@@ -20,6 +20,4 @@ INSTALL DEPENDENCIES
 ########################################################################################################
 STEPS FOR EXECUTION
 ########################################################################################################
-step 1. IN THE ANACONDA COMMAND PROMPT GOTO  GROUP_ADMM FOLDER GOTO CODE FOLDER THEN GO TO SMDM FOLDER 
-
-STEP 2. GIVE COMMAND python train_stance.py
+For training run ./code/train_stance.py, make sure to install all the dependencies before runnning
